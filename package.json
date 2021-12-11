@@ -1,6 +1,6 @@
 {
   "name": "kyoko-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple JavaScript Library To Interact With Kyoko API",
   "main": "./lib/kyoko.js",
   "directories": {
