@@ -1,8 +1,13 @@
-# Kyoko-npm
-Simple JavaScript Library To Interact With Kyoko API
 
+<p align="center">
+  <img src="https://api.rei.my.id/img/style/ayaxkyo.jpg" width=40%><br>
+  <b>Simple JavaScript Library To Interact With <a href="https://api.rei.my.id/">Kyoko API</a></b>
+  <br><br>
+</p>
+
+Installation
 ```
-npm i Kyoko-npm
+npm i kyoko-npm
 ```
 
 Example
