@@ -1,0 +1,28 @@
+{
+  "name": "kyoko-npm",
+  "version": "1.0.0",
+  "description": "Simple JavaScript Library To Interact With Kyoko API",
+  "main": "./lib/kyoko.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eilaluth/Kyoko-npm.git"
+  },
+  "keywords": [
+    "anime-api",
+    "quotes-generator",
+    "anime-quotes-api",
+    "anime-quotes-generator"
+  ],
+  "author": "Eilaluth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eilaluth/Kyoko-npm/issues"
+  },
+  "homepage": "https://github.com/Eilaluth/Kyoko-npm#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.6"
+  }
+}
