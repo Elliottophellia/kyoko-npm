@@ -7,7 +7,7 @@ npm i Kyoko-npm
 
 Example
 ```javascript
-const { Kyoko } = require('Kyoko-npm');
+const { Kyoko } = require('kyoko-npm');
 
 (async () => {
    
